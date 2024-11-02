@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Desktop\FinalPro\FinalPro\bin\Debug\FinalPro.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\FinalPro\FinalPro\bin\Debug\FinalPro.exe
+C:\Users\Lenovo\OneDrive\Desktop\FinalPro\FinalPro\bin\Debug\FinalPro.pdb
+C:\Users\Lenovo\OneDrive\Desktop\FinalPro\FinalPro\obj\Debug\FinalPro.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\FinalPro\FinalPro\obj\Debug\FinalPro.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\FinalPro\FinalPro\obj\Debug\FinalPro.exe
+C:\Users\Lenovo\OneDrive\Desktop\FinalPro\FinalPro\obj\Debug\FinalPro.pdb
